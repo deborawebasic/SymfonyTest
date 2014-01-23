@@ -1,0 +1,15 @@
+parameters:
+    database_driver: pdo_pgsql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: locadora
+    database_user: postgres
+    database_password: postgres
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 3c19892b8c1dd09e2c7033e95bf17575762a02ca
+    database_path: null
+

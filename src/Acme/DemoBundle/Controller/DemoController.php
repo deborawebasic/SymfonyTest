@@ -24,7 +24,8 @@ class DemoController extends Controller
 
     /**
      * @Route("/hello/{name}", name="_demo_hello")
-     * @Template()
+     * @Template() 
+     *
      */
     public function helloAction($name)
     {
